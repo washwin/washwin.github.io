@@ -1,25 +1,14 @@
 ---
 layout: page
 title: Checkers
-description: with background image
+description: Play a game of Checkers on your terminal!
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Created a terminal-based Checkers game with an AI bot powered by the Mini-Max Algorithm, enabling competitive play against an intelligent opponent. Optimized the AI’s decision-making using Alpha-Beta Pruning Method to achieve a challenging and efficient game-play experience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
