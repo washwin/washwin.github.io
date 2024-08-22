@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: RAG based CHatBot
+description: An open source llm trained on user submitted document.
+img: assets/img/7.jpg
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

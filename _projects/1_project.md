@@ -4,8 +4,8 @@ title: Checkers
 description: Play a game of Checkers on your terminal!
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: fun
+related_publications: false
 ---
 
 Created a terminal-based Checkers game with an AI bot powered by the Mini-Max Algorithm, enabling competitive play against an intelligent opponent. Optimized the AI’s decision-making using Alpha-Beta Pruning Method to achieve a challenging and efficient game-play experience.
