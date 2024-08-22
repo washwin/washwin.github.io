@@ -14,6 +14,6 @@ related_publications: false
  Fully integrated the website with a PostgreSQL backend database, enabling real-time data management for
  seat availability, schedules, and reservations
 
-<div class="col-sm mt-3 mt-md-0">
+<!-- <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/VvH9nfD_4GM" class="img-fluid rounded z-depth-1" %}
-</div>
+</div> -->
