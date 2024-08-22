@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: to be done # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -169,12 +169,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  # - name: medium.com
-  #   rss_url: https://medium.com/@al-folio/feed
-  # - name: Google Blog
-  #   posts:
-  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-  #       published_date: 2024-05-14
+  - name: medium.com
+    rss_url: https://medium.com/@washwin/feed
+  - name: Harnessing Social Media for Data Collection A Practical Guide with Python
+    posts:
+      - url: https://medium.com/@washwin/harnessing-social-media-for-data-collection-a-practical-guide-with-python-8b53c4debde7
+        published_date: 2024-08-22
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Waghmare]
+  first_name: [Ashwin, M.]
 
   style: apa
   locale: en
