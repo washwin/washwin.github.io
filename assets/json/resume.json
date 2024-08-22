@@ -1,61 +1,79 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ashwin Waghmare",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ashwinw001@gmail.com",
+    "phone": "+91 7796873370",
+    "url": "https://washwin.github.io/",
+    "summary": "Born and brought up in Pune..",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Viman Nagar",
+      "postalCode": "411014",
+      "city": "Pune",
+      "countryCode": "India",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ashwin-w",
+        "url": "https://www.linkedin.com/in/ashwin-w-20b165228/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Tata Motors Limited, Pune",
+      "position": "Deep Learning Intern",
+      "url": "https://www.tatamotors.com/organisation/about-us/",
+      "startDate": "2024-05-02",
+      "endDate": "2024-08-02",
+      "summary": "Pioneered Generative AI research for LLM based project, cutting outsourcing costs by roughly $30,000, fordelivering precise corrective action summaries from user manuals to factory workers. Developed and deployed a RAG-based model, managing the entire data pipeline and web interface, achieving a 30% reduction in factory machinery maintenance time.",
+      "highlights": ["Deep Learning"]
+    },
+    {
+      "name": "Tata Technologies Limited, Pune",
+      "position": "Machine Learning Intern",
+      "url": "https://www.tatatechnologies.com/in/about-us/",
+      "startDate": "2023-05-02",
+      "endDate": "2023-08-02",
+      "summary": "Designed over 30 data visualization graphics, transforming complex data sets into clear and actionable visual insights that improved decision-making across departments. Developed and deployed a time-series forecasting model, predicting manufacturing accidents with 85% accuracy and reducing incidents by 20%, enhancing workplace safety.",
+      "highlights": ["Machine Learning"]
+    },
+    {
+      "name": "SCA IT Infrastructure Limited, Pune",
+      "position": "Sales Assistant",
+      "url": "https://scait.co.in/company-profile.php",
+      "startDate": "2023-11-02",
+      "endDate": "2023-12-30",
+      "summary": "Created professional sales presentations to effectively demonstrate product features and competitive advantages. Pitched sales for active networking at several corporations.",
+      "highlights": ["Sales"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Disha Institute",
+      "location": "Wagholi, Pune",
+      "position": "Social Service",
+      "url": "https://www.google.com/maps/dir//HX84%2BWGX+DISHA+INSTITUTE+UBALE+NAGAR,+Unnamed+Road,+Wagholi,+Pune,+Maharashtra+411014/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2c3eb807901f9:0x320de5ad578f3200?sa=X&ved=1t:57443&ictx=111",
+      "startDate": "2024-05-01",
+      "endDate": "2024-12-12",
+      "summary": "Coordinated with healthcare professionals and over 12 volunteers to ensure the efficient setup and operation of health camps, resulting in a 40% increase in community participation and improved access to healthcare services for over 100 individuals.Designed and implemented creative, resourceful lesson plans for over 15 students with limited opportunities, using innovative teaching methods and materials.",
+      "highlights": ["Health Care", "Education"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Technology",
+      "location": "Dharwad, Karnataka",
+      "url": "https://www.iitdh.ac.in/iit-dharwad#about",
+      "area": "Computer Science Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2021-12-04",
+      "endDate": "2025-04-04",
+      "score": "8.0",
+      "courses": ["Artificial Intelligence", "Deep Learning"]
     }
   ],
   "awards": [
