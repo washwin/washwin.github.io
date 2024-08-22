@@ -15,5 +15,5 @@ related_publications: false
  seat availability, schedules, and reservations
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/VvH9nfD_4GM" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/VvH9nfD_4GM" class="img-fluid rounded z-depth-1" %}
 </div>
