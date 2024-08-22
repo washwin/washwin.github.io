@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RAG based CHatBot
+title: RAG based ChatBot
 description: An open source llm trained on user submitted document.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
