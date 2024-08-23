@@ -8,15 +8,15 @@ middle_name: M.
 last_name: Waghmare
 email: ashwinw001@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My portfolio website.
+  MY personal webpage.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📑 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://washwin.github.io # the base hostname & protocol for your site
-baseurl:
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -78,25 +78,33 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 instagram_id: ashwinw7 # your instagram id
 ieee_id: # your ieeexplore.ieee.org/author/id
 facebook_id: # your facebook id
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
+# facebook_id: # your facebook id
 # flickr_id: # your flickr id
+# github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
-# inspirehep_id: # Inspire HEP author ID
+# ieee_id: # your ieeexplore.ieee.org/author/id
+# inspirehep_id: 1010907 # Inspire HEP author ID
+# instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+# linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# medium_username: # your Medium username
+# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-# scholar_userid: # your Google Scholar ID
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -104,10 +112,12 @@ facebook_id: # your facebook id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 
 contact_note: >
@@ -119,56 +129,56 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-# google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-# cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
-# pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
+google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
+pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-# google_site_verification: # your google-site-verification ID (Google Search Console)
-# bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: # your google-site-verification ID (Google Search Console)
+bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Harnessing Social Media for Data Collection A Practical Guide with Python # blog_name will be displayed in your blog page
-# blog_description: a simple whitespace theme for academics
-# permalink: /blog/:year/:title/
-# lsi: false # produce an index for related posts
+blog_name: washwin # blog_name will be displayed in your blog page
+blog_description: Blogs based on Artificial Intelligence.
+permalink: /blog/:2024/:title/
+lsi: false # produce an index for related posts
 
 # Pagination
-# pagination:
-#   enabled: true
+pagination:
+  enabled: true
 
-# related_blog_posts:
-#   enabled: true
-#   max_related: 5
+related_blog_posts:
+  enabled: false
+  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-# giscus:
-#   repo: # <your-github-user-name>/<your-github-repo-name>
-#   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-#   category: Comments # name of the category under which discussions will be created
-#   category_id: # leave empty or specify your category_id (see https://giscus.app/)
-#   mapping: title # identify discussions by post title
-#   strict: 1 # use strict identification mode
-#   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-#   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-#   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-#   emit_metadata: 0
-#   lang: en
+giscus:
+  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  category: Comments # name of the category under which discussions will be created
+  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  mapping: title # identify discussions by post title
+  strict: 1 # use strict identification mode
+  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata: 0
+  lang: en
 
 # Disqus comments (DEPRECATED)
-# disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@washwin/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@washwin/feed
   - name: Harnessing Social Media for Data Collection A Practical Guide with Python
     posts:
       - url: https://medium.com/@washwin/harnessing-social-media-for-data-collection-a-practical-guide-with-python-8b53c4debde7
@@ -178,34 +188,34 @@ external_sources:
 # Newsletter
 # -----------------------------------------------------------------------------
 
-# newsletter:
-#   enabled: false
-#   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
+newsletter:
+  enabled: false
+  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
-#   news:
-#     defaults:
-#       layout: post
-#     output: true
-#     permalink: /:collection/:title/
-#   projects:
-#     output: true
-#     permalink: /:collection/:title/
+collections:
+  news:
+    defaults:
+      layout: post
+    output: false
+    permalink: /:collection/:title/
+  projects:
+    output: true
+    permalink: /:collection/:title/
 
-# announcements:
-#   enabled: false
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#   limit: 5 # leave blank to include all the news in the `_news` folder
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
-# latest_posts:
-#   enabled: false
-#   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-#   limit: 3 # leave blank to include all the blog posts
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -242,14 +252,13 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/teaching.md
+  - _pages/publications.md
+  - _pages/profile.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
-  - news.md
-  - _pages/profiles.md
-  - _pages/teaching.md
-  - _pages/publications.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -307,7 +316,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["artificial intelligence"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -440,7 +449,7 @@ enable_navbar_social: true # enables displaying social links in the navbar on th
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
-enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
+enable_video_embedding: true # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
 # Library versions

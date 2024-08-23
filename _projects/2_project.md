@@ -2,7 +2,7 @@
 layout: page
 title: Encrypted Chatroom
 description: Private chatting and video-sharing platform
-img: assets/img/12.jpg
+img: assets/img/encrypted_chatroom.jpg
 importance: 1
 category: work
 related_publications: false
@@ -13,6 +13,6 @@ related_publications: false
  connectivity.
 
 
-<!-- <div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/Fn9QgUqdQzE" class="img-fluid rounded z-depth-1" %}
-</div> -->
+</div>

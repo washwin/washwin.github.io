@@ -2,7 +2,7 @@
 layout: page
 title: Bus Booking Website
 description: Book tickets for bus.
-img: assets/img/12.jpg
+img: assets/img/bus_booking.png
 importance: 1
 category: work
 related_publications: false
@@ -14,6 +14,6 @@ related_publications: false
  Fully integrated the website with a PostgreSQL backend database, enabling real-time data management for
  seat availability, schedules, and reservations
 
-<!-- <div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/VvH9nfD_4GM" class="img-fluid rounded z-depth-1" %}
-</div> -->
+</div>
