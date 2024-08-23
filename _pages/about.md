@@ -21,3 +21,5 @@ social: true # includes social icons at the bottom of the page
 Hello, my name is Ashwin Mahendra Waghmare, and I am from Pune. I am currently pursuing a B.Tech in Computer Science from IIT Dharwad, with a strong passion for machine learning and artificial intelligence. Over the past four years, I have gained substantial experience as a Software Developer, honing my skills in designing, installing, testing, and maintaining software systems. My expertise spans various platforms, programming languages, and embedded systems, and I am committed to delivering innovative solutions that push the boundaries of technology.
 
 Below are some AI project ideas that align with my interests and could be pursued to further explore the potential of AI:
+1) 6G Semantic Communication
+2) Machine Learning for Raman Spectroscopy

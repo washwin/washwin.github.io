@@ -8,8 +8,11 @@ category: fun
 related_publications: false
 ---
 
-Created a terminal-based Checkers game with an AI bot powered by the Mini-Max Algorithm, enabling competitive play against an intelligent opponent. Optimized the AI’s decision-making using Alpha-Beta Pruning Method to achieve a challenging and efficient game-play experience.
+This is a terminal-based Checkers game, featuring an AI bot powered by the Mini-Max Algorithm, designed to provide a challenging and competitive experience for players. The AI opponent is capable of making intelligent moves, simulating a realistic and dynamic game environment.
 
+To enhance the AI's efficiency and effectiveness, I implemented the Alpha-Beta Pruning Method. This optimization technique significantly reduces the search space during decision-making, allowing the AI to explore only the most promising moves. As a result, the game maintains a high level of difficulty, ensuring that the AI opponent remains a formidable challenge for players, while also improving the overall responsiveness and speed of gameplay.
+
+The Checkers game, playable entirely within the terminal, showcases a seamless blend of strategic gameplay and AI sophistication, offering an engaging experience for users seeking a competitive match against a smart, adaptive opponent.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

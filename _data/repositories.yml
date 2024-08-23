@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - washwin/Artificial-Intelligence-lab
-  - washwin/Advanced_Machine_Learning
   - washwin/Checkers
   - washwin/Encrypted-Chatroom
+  - washwin/Artificial-Intelligence-lab
+  - washwin/Advanced_Machine_Learning
+  - washwin/SSL-Project-Bus_Service_System
   - washwin/Maintenance-Knowledge-Advisor
-  - washwin/Toy_RISC
