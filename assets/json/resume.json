@@ -119,29 +119,25 @@
   "certificates": [
     {
       "name": "Deep Learning",
-      "date": "2018-01-01",
-      "issuer": "Tata Technologies",
+      "issuer": "Tata Motors",
       "url": "/assets/pdf/Tata_motors.pdf",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
       "issuer": "Tata Technologies",
       "url": "/assets/pdf/Tata_tech_certificate.pdf",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Sales",
-      "date": "2018-01-01",
-      "issuer": "Tata Technologies",
+      "issuer": "SCA IT",
       "url": "/assets/pdf/SCAIT_certificate.pdf",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Industrial Training",
-      "date": "2018-01-01",
-      "issuer": "Tata Technologies",
+      "issuer": "IIT Guwahati",
       "url": "/assets/pdf/Coincent_training.pdf",
       "icon": "fa-solid fa-location-dot"
     }
