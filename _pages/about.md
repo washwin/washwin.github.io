@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
