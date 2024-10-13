@@ -2,7 +2,7 @@
 layout: page
 title: NeuroSymbolic AI for Resilient Semantic Communication
 description: One step closer to 6G Communication.
-img: assets/img/bus_booking.png
+img: assets/img/semcom.jpg
 importance: 1
 category: work
 related_publications: false

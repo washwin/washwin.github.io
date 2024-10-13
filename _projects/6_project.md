@@ -2,8 +2,8 @@
 layout: page
 title: Machine Learning for Raman Spectroscopy
 description: Classifying Bacteria from their Raman Spectra
-img: assets/img/bus_booking.png
-importance: 1
+img: assets/img/raman.png
+importance: 2
 category: work
 related_publications: false
 ---
@@ -26,19 +26,13 @@ This project aims to leverage machine learning techniques to analyze and classif
 - **Deep Learning Models:** Develop deep learning architectures, such as Convolutional Neural Networks (CNNs) or autoencoders, to automatically learn feature representations from the high-dimensional Raman data for improved classification performance.
 
 **Applications:**
-- **Material Identification:** Accurately identify chemicals and materials in research, manufacturing, and forensic investigations based on their unique Raman signatures.
 - **Bacterial Strain Classification:** Use Raman spectroscopy data to classify bacterial strains for medical diagnostics and environmental monitoring.
-- **Pharmaceutical Analysis:** Automate the identification of active ingredients and contaminants in pharmaceutical products to ensure quality control.
-- **Disease Diagnostics:** Develop machine learning models to detect biomarkers in biological samples for early diagnosis of diseases such as cancer or bacterial infections.
 
 **Technologies Used:**
 - Python for data processing and machine learning implementation
 - Libraries such as NumPy, Pandas, and scikit-learn for preprocessing and model training
 - Deep learning frameworks like TensorFlow or PyTorch for building neural networks
 - The 'rampy' library for Raman spectra preprocessing
-
-**Expected Impact:**
-This project will significantly streamline the analysis of Raman spectroscopy data, enabling faster and more accurate identification of materials and biological samples. By incorporating machine learning, the process becomes automated, reducing the need for expert interpretation, improving throughput, and increasing the reliability of results in research, healthcare, and industrial applications.
 
 **Challenges:**
 - High dimensionality and noise in Raman spectra data may require robust feature extraction and selection techniques.
