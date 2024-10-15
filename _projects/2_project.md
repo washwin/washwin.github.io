@@ -43,7 +43,7 @@ This system demonstrates the practical implementation of secure, encrypted commu
 
 **Challenges Overcome:**
 - **Managing Public Keys for Multiple Clients:** The system effectively handles public key management, ensuring encrypted communication without adding complexity to the user experience.
-- **Seamless Real-Time Communication:** The system ensures real-time updates and notifications, keeping clients informed about connections and messages, even when multiple clients are connected.
+- **Seamless Real-Time Communication:** The system ensures real-time updates and notifications, keeping clients informed  connections and messages, even when multiple clients are connected.
 
 **Technologies Used:**
 - **Programming Language:** Python (or another suitable language) for socket programming and managing communication protocols.
