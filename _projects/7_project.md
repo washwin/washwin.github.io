@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Machine Learning for Raman Spectroscopy
-description: Classifying Bacteria from their Raman Spectra
-img: assets/img/raman.png
+title: NLP-BERT Based Research for Lambani Language Technology Development
+description: Extensive methods for data collection
+img: assets/img/nlp.png
 importance: 2
 category: work
 related_publications: false
 ---
-
-### Project Title: NLP-BERT Based Research for Lambani Language Technology Development
 
 **Project Overview:**
 In collaboration with Prof. Anand Konjengbam, this project focused on the development of language technology for the Lambani language—a tribal language with limited digital resources. The goal was to contribute to the preservation and digital representation of Lambani by leveraging Natural Language Processing (NLP) techniques, specifically utilizing BERT (Bidirectional Encoder Representations from Transformers). Through extensive data collection, model fine-tuning, and the application of advanced NLP methodologies, this project aimed to create language tools and resources that could bridge the technological gap for this underrepresented language.
