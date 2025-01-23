@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Quantitative Research
-description: Commodity storage contract, Credit reisk analysis
+description: Commodity storage contract, Credit risk analysis
 img: assets/img/quant.png
-importance: 3
+importance: 1
 category: work
 related_publications: false
 ---
@@ -73,6 +73,8 @@ The goal of this project is to develop a **prototype pricing model** for a natur
    - Historical price trends.
    - Forecasted prices with confidence intervals.
 
+5. **Github Link**:
+    - https://github.com/washwin/Quantitative_research
 ---
 
 ## Sample Workflow
@@ -115,15 +117,3 @@ The goal of this project is to develop a **prototype pricing model** for a natur
 
 ---
 
-## Next Steps
-
-1. **Prototype Validation**:
-   - Test the function with real-world scenarios and refine it based on feedback.
-2. **Scalability Assessment**:
-   - Explore integration with larger datasets and additional operational constraints.
-3. **User Interface**:
-   - Develop a simple UI for manual use by analysts.
-4. **Automation Roadmap**:
-   - Plan the transition to a fully automated quoting system.
-
-This structured approach ensures the model is robust, reliable, and adaptable for future needs.
