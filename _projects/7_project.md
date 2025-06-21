@@ -4,7 +4,7 @@ title: NLP-BERT Based Research for Lambani Language Technology Development
 description: Extensive methods for data collection
 img: assets/img/nlp.png
 importance: 2
-category: work
+category: tech
 related_publications: false
 ---
 
