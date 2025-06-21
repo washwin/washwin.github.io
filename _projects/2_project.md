@@ -4,7 +4,7 @@ title: Encrypted Chatroom
 description: Private chatting and video-sharing platform
 img: assets/img/encrypted_chatroom.jpg
 importance: 3
-category: work
+category: tech
 related_publications: false
 ---
 ### Project Title: Secure TCP Socket-Based System with Encrypted Communication and Real-Time Video Streaming
