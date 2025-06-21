@@ -4,7 +4,7 @@ title: Quantitative Research
 description: Commodity storage contract, Credit risk analysis
 img: assets/img/quant.png
 importance: 1
-category: work
+category: tech
 related_publications: false
 ---
 
