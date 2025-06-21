@@ -4,7 +4,7 @@ title: Terminal-Based Checkers Game
 description: Play a game of Checkers on your terminal!
 img: assets/img/checkers.png
 importance: 1
-category: fun
+category: tech
 related_publications: false
 ---
 
