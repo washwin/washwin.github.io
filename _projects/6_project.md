@@ -4,7 +4,7 @@ title: Machine Learning for Raman Spectroscopy
 description: Classifying Bacteria from their Raman Spectra
 img: assets/img/raman.png
 importance: 2
-category: work
+category: tech
 related_publications: false
 ---
 
