@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Engineer
+subtitle: Management Student
 
 profile:
   align: right
@@ -18,11 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Ashwin Mahendra Waghmare, and I am from Pune. I am currently pursuing a B.Tech in Computer Science Engineering at Indian Institute of Technology (IIT) Dharwad, with a strong passion for machine learning and artificial intelligence. Over the past four years, I have gained substantial experience as a Software Developer, honing my skills in designing, installing, testing, and maintaining software systems. My expertise spans various platforms, programming languages, and embedded systems, and I am committed to delivering innovative solutions that push the boundaries of technology.
+Hello, my name is Ashwin Mahendra Waghmare, and I am from Pune. I have recently completed my B.Tech in Computer Science from IIT Dharwad and am currently pursuing an MBA at IIM Mumbai, specializing in General Management.
 
-### My current pursuits in AI
-##### **6G Semantic Communication**
-Using deep learning in 6G semantic communication through neuro-symbolic AI combines the pattern recognition power of neural networks with the logical reasoning of symbolic AI. This approach enables the communication system to not only extract and transmit semantic information but also understand and reason the context and intent behind the data.
+While my academic foundation lies in engineering, my professional aspirations are firmly rooted in management consulting. I am deeply passionate about solving complex business problems, driving strategic transformation, and delivering data-driven, high-impact solutions across industries. My prior experience as a Software Developer has equipped me with analytical thinking, structured problem-solving, and technical adaptability—skills I now seek to apply in broader business contexts.
 
-##### **Machine Learning for Raman Spectroscopy**
-Machine learning for Raman spectroscopy of biomolecules streamlines the identification and analysis of biological compounds by automating spectral data interpretation. It enhances the detection of subtle biomolecular signatures, improves accuracy in classifying complex biological samples, and accelerates the discovery of biomarkers, aiding in research and diagnostics in biomedicine.
+At IIM Mumbai, I am actively engaging with coursework and projects in strategy, operations, and organizational behavior to deepen my understanding of business fundamentals. I am particularly drawn to consulting for its dynamic nature, exposure to diverse sectors, and the opportunity to create measurable value for clients. My goal is to build a career at the intersection of business strategy and data, helping organizations navigate uncertainty and scale sustainably.
