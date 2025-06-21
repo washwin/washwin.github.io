@@ -4,7 +4,7 @@ title: Bus Booking Website
 description: Book tickets for bus.
 img: assets/img/bus_booking.png
 importance: 4
-category: work
+category: tech
 related_publications: false
 ---
 ### Project Title: Fully Responsive Bus Booking Website with Real-Time Data Integration
