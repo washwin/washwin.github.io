@@ -4,7 +4,7 @@ title: NeuroSymbolic AI SemCom
 description: Resilient Semantic Communication for 6G
 img: assets/img/semcom.jpg
 importance: 1
-category: work
+category: tech
 related_publications: false
 ---
 ### Project Title: Neuro-Symbolic AI for Resilient Semantic Communication
